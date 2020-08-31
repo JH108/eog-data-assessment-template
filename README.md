@@ -1,2 +1,3 @@
 # eog-data-assessment-template
-Created with CodeSandbox
+
+Created with purpose for \$USERNAME
