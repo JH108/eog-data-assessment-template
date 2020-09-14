@@ -5,7 +5,7 @@
  * Here are a few things you will need to do before starting
  * First, follow the tutorial at https://marcopeg.com/2019/setup-free-postgres
  * to create a postgres database that you will be using as part of this assessment.
- * Then update the values in ./.env with the values from the tutorial
+ * Then update the values in ../.env with the values from the tutorial
  */
 
 /**
