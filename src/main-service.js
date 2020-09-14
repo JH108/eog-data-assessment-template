@@ -9,6 +9,13 @@ require("dotenv/config");
 
 /**
  * method: GET
+ * route: /migrate-users
+ * purpose: Use the function(s) written in ../populate-postgres as a job that is
+ * run whenever this route is hit.
+*/
+
+/**
+ * method: GET
  * route: /users
  * purpose: Return an array of users
  * bonus: Support pagination
